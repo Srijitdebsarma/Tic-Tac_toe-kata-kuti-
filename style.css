@@ -1,0 +1,47 @@
+	h1 {
+		color: rebeccapurple;
+		font-size: 50px;
+	}
+
+	/* The Grid*/
+	#b1, #b2, #b3, #b4, #b5,
+	#b6, #b7, #b8, #b9 {
+		width: 100px;
+		height: 75px;
+		margin: auto;
+		border: 1px solid;
+		border-radius: 6px;
+		font-size: 30px;
+		text-align: center;
+	}
+
+	/* Reset Button */
+	#resetButton{
+		box-sizing: border-box;
+		width: 95px;
+		height: 40px;
+		border: 1px solid dodgerblue;
+		margin: auto;
+		border-radius: 4px;
+		background-color: dodgerblue;
+		color: white;
+		font-size: 20px;
+		cursor: pointer;
+	}
+
+	/* Player turn text section */
+	#print {
+		color: red;
+		font-size: 20px;
+	}
+
+	/* Main Container */
+	#main {
+		text-align: center;
+	}
+
+	/* Game Instruction Text */
+	#instruction {		
+		color: dodgerblue;
+		font-size: 17px;
+	}
